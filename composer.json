@@ -1,0 +1,8 @@
+{
+    "name": "pilotftzi/zf-doctrine",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.3",
+        "another-vendor/package": "1.*"
+    }
+}
